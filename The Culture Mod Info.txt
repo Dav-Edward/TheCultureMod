@@ -1,0 +1,9 @@
+This mod names ships based on the book series 'The Culture' where the AI on ships named themselves after idioms, general sayings, and concepts. This version has both official ones and a lot of made up additions by gamers.
+
+Note that random_ship_names_p2 is intentionally blank to prevent unwanted suffixes in the names since everything is contained in random_ship_names_p1.
+
+The folder containing 'Only Official' is just actual names from The Culture. Whereas 'Official and Community Additions' has everything.
+
+Mod by: Davywn Edward
+
+Version 1a
